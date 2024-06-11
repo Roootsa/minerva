@@ -1,2 +1,2 @@
-# minerva
+# Tugas UAS PTI
 Landing Page
